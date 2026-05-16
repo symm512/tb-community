@@ -1,7 +1,7 @@
 """
-Applet: MLB Leader Stats
-Summary: Displays MLB Leader Stats
-Description: Displays live and upcoming MLB scores from a data feed.
+Applet: MLB Stats Leaders
+Summary: Displays MLB Stats Leaders
+Description: View up to 10 leader stats for the current year. Choose from 30 available stats. Set rotation speed.
 Author: symm512
 """
 

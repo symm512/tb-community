@@ -1,0 +1,8 @@
+---
+id: mlb-stats-leaders
+name: MLB Stats Leaders
+summary: View MLB stats leaders
+desc: View up to 10 stats leaders for the current year. Choose from 30 available stats. Set rotation speed.
+author: symm512
+fileName: mlbstatsleaders.star
+packageName: mlbstatsleaders
