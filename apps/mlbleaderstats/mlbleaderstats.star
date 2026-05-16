@@ -142,7 +142,7 @@ STAT_CONFIG = {
     "HRP": {"api": "homeRuns", "title": "HR LEADERS", "group": "pitching"},
     "BBP": {"api": "walks", "title": "BB LEADERS", "group": "pitching"},
     "SOP": {"api": "strikeOuts", "title": "SO LEADERS", "group": "pitching"},
-    "WHIP": {"api": "walksAndHitsPerInningPitched", "title": "WHIP LEADERS", "group": "pitching"},
+    "WHIP": {"api": "walksAndHitsPerInningPitched", "title": "WHP LEADERS", "group": "pitching"},
 }
 
 def get_team_color(team):
